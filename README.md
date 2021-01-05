@@ -1,3 +1,3 @@
 # High Resolution 3D Printer
 
-![](/Images/design-1.png =250x250)
+![](https://github.com/YazgacResearch/3DPrinter/blob/main/Images/design-1.png =250x250)
